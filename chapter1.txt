@@ -1,1 +1,2 @@
 It was the best time when i was introduced to HTML, css and JavaScript.
+Changing of chapter 1.
